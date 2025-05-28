@@ -14,3 +14,18 @@ Nachdem Sie das Skript ausgeführt haben finden sie das Leistungsdiagramm (Power
 ## Beispielgrafik
 
 ![](figures/power_curve.png)
+
+
+
+
+
+## Aufgabe 2
+Erstellen eines UML - Diagramms für Aufgabe 2
+
+## UML-Diagramm
+
+![](data/docs/UC-Diagramm.png)
+
+## Flow Chart
+
+![](data/docs/ekg_data._acticity.svg)
